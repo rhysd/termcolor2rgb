@@ -1,6 +1,6 @@
 [package]
 name = "termcolor2rgb"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["rhysd <https://rhysd.github.io>"]
 edition = "2018"
 description = "Small crate to convert termcolor::Color to RGB value"
