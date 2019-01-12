@@ -9,8 +9,7 @@ readme = "README.md"
 license-file = "LICENSE.txt"
 
 [badges]
-travis-ci = { repository = "rhysd/path-slash" }
-appveyor = { repository = "rhysd/path-slash" }
+travis-ci = { repository = "rhysd/termcolor2rgb" }
 maintenance = { status = "passively-maintained" }
 
 [package.metadata.release]
